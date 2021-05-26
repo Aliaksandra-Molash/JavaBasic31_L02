@@ -7,7 +7,7 @@ public class Task2 {
 		
 		int x, y, max ; 
 		x = 7;
-        y = 77;
+        y = 77;//выравнивай код
              
         if (x > y) {
         	max = x ;
